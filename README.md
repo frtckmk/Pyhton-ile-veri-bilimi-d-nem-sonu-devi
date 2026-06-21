@@ -1,1 +1,1 @@
-# Pyhton-ile-veri-bilimi-d-nem-sonu-devi
+# Pyhton-ile-veri-bilimi-donem-sonu-odevi
