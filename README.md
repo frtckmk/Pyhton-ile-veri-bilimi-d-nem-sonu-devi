@@ -1,1 +1,1 @@
-# Pyhton-ile-veri-bilimi-donem-sonu-odevi
+# Pyhton ile veri bilimi donem sonu odevi
